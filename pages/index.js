@@ -12,6 +12,7 @@ export default function Home() {
       <h1 className={styles.title}>
           Emmeri Grooms welcomes <a href="https://nextjs.org">Next.js!</a>
         </h1>
+    <Counter/>
     </div>
 
   );
