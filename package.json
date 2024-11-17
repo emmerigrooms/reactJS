@@ -12,5 +12,8 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+"scripts": {
+  "start": "next start -p 3071"
+}
 }
