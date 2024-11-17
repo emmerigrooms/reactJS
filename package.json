@@ -14,6 +14,6 @@
     "node": ">=18"
   },
 "scripts": {
-  "start": "next start -p 3071"
+  "start": "PORT=3071 next start"
 }
 }
