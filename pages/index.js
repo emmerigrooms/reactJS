@@ -23,7 +23,7 @@ export default function Home() {
 
         <hr style={{width: "80%", marginTop:"1em,"}}/>
 
-        <p>Check out my link <Link href="/store">Fake Store</Link></p>
+        <p>Check out my <Link href="/store.js">Fake Store</Link></p>
     </div>
   );
 };
